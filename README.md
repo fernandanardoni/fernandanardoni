@@ -27,8 +27,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/brenontx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brenontx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brenont" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brenont" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/fernanda-nardoni-23354778/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fernanda-nardoni" height="30" width="40" /></a>
 
 </p>
 
