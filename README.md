@@ -16,7 +16,7 @@
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=brenont&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenont&layout=compact&hide_border=true" alt="jonataspinto" />                   </td>
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenont&layout=compact&hide_border=true" alt="brenont" />                   </td>
       </tr>  
     </table>
 </center>
