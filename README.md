@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernanda Nardoni</h1>
 <h3 align="center">frontend developer</h3>
 
-<center>
+<center align="center">
  <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
