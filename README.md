@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Breno Nunes</h1>
+<h1 align="center">Hi 👋, I'm Fernanda Nardoni</h1>
 <h3 align="center">frontend developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,19 +13,19 @@
     <table align="center">
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=brenont&count_private=true&hide_border=true" />
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=fernandanardoni&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenont&layout=compact&hide_border=true" alt="brenont" />                   </td>
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandanardoni&layout=compact&hide_border=true" alt="fernanda-nardoni" />                   </td>
       </tr>  
     </table>
 </center>
 
-- 👨‍💻 All of my projects are available at [brenont.github.io](https://brenont.github.io)
+<!-- - 👨‍💻 All of my projects are available at [brenont.github.io](https://brenont.github.io) -->
 
-- 💬 Ask me about **javascript, react, styled-components**
+- 💬 I'm currently learning about **javascript, react, styled-components**
 
-- 📫 How to reach me **brenontavares@gmail.com**
+- 📫 How to reach me **nandanardoni@hotmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
